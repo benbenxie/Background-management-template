@@ -1,0 +1,85 @@
+html body{
+	background-color: #050505;
+	color: #fff;
+}
+div.page-content{
+	background-color: #050505;
+}
+a{
+	cursor: pointer;
+	color: #fff !important;
+}
+a:link,a:active,a:visited,a:hover{
+	color: #fff;
+	text-decoration: none !important; 
+}
+div.main-container:before{
+	background-color: #050505;
+}
+div h5{
+	margin:0 -12px;
+	padding: 5px 10px;
+	background-color: #2A2A2A;
+}
+ul{
+	list-style: none;
+}
+table{
+	table-layout:fixed;
+}
+table td{
+	word-break: keep-all;
+	white-space:nowrap;
+	overflow: hidden;
+    text-overflow: ellipsis;
+}
+.iconBg{
+	background-image: url(./resources/assets/img/icons.png);
+	background-repeat: no-repeat;
+}
+.iconBg-star5{
+	display: inline-block;
+	width: 88px;
+	height: 16px;
+	background-position:-2px -73px;
+}
+.iconBg-star4{
+	display: inline-block;
+	width: 90px;
+	height: 18px;
+	background-position:-18px -73px;
+}
+.iconBg-star3{
+	display: inline-block;
+	width: 88px;
+	height: 16px;
+	background-position:-38px -73px;
+}
+.iconBg-star2{
+	display: inline-block;
+	width: 88px;
+	height: 16px;
+	background-position:-56px -73px;
+}
+.iconBg-star1{
+	display: inline-block;
+	width: 88px;
+	height: 16px;
+	background-position:-74px -73px;
+}
+.iconBg-star0{
+	display: inline-block;
+	width: 88px;
+	height: 16px;
+	background-position:-92px -73px;
+}
+.flex{
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+}
+.flex-1{
+    -webkit-flex:1;
+    -moz-flex:1;
+    flex:1;
+}
