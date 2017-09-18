@@ -9,7 +9,8 @@
 
 # js-beautify 最新版挂掉了
 执行 npm install --save-dev js-beautify@1.6.14  vue-loader@13.0.4
-npm install 可以执行了
+
+npm install 
 
 # serve with hot reload at localhost:8080
 npm run dev
