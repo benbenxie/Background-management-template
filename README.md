@@ -16,6 +16,10 @@ npm run build
 ```
 #这是一个呼叫中心后台基础模版
 
+# js-beautify 最新版挂掉了
+执行 npm install --save-dev js-beautify@1.6.14  vue-loader@13.0.4
+npm install 可以执行了
+
 #你需要将‘essos.js’放入'echarts\theme'中
 
 
